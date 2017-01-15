@@ -69,4 +69,23 @@ Important lesson learned. Sub module dependencies may sometimes be incompatible 
 **Link(s) to work:**
 1. [Gladius KS Initial Commit](https://github.com/sseltzer/gladius/commit/f247cdb71df6fc1baef984b664edbfee848c0f07)
 
-**Time:** X hrs
+**Time:** 2 hrs
+
+
+### Day 6: January 13, 2017
+
+**Today's Progress:** Worked on VM configuration. Trying to get network adapters working.
+
+**Thoughts:** 
+
+**Time:** 1hrs
+
+
+### Day 7: January 14, 2017
+
+**Today's Progress:** Worked on VM configuration. Found a workaround.
+
+**Thoughts:** 
+
+**Time:** 1hrs
+

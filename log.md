@@ -130,4 +130,11 @@ Important lesson learned. Sub module dependencies may sometimes be incompatible 
 **Today's Progress:** Atom
 
 ### Day 18: January 28, 2017
-**Today's Progress:** Gladius
+**Today's Progress:** Worked on gladius today. Set up gulp and env configs.
+
+**Thoughts:** Not much. Just getting ramped up on setting up my general config. Using a git submodule for the first time. The flat dir structure really helps. This time around everything is much simpler in general.
+
+**Time:** 4hrs
+
+**Link(s) to work:**
+1. [Gladius](https://github.com/sseltzer/gladius)

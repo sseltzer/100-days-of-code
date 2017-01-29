@@ -89,3 +89,45 @@ Important lesson learned. Sub module dependencies may sometimes be incompatible 
 
 **Time:** 1hrs
 
+
+### Day 8: January 15, 2017
+**Today's Progress:** Docker
+
+### Day 9: January 16, 2017
+**Today's Progress:** Docker
+
+### Day 10: January 17, 2017
+**Today's Progress:** Docker
+
+### Day 11: January 18, 2017
+**Today's Progress:** Docker
+
+### Day 12: January 19, 2017
+**Today's Progress:** Docker
+
+### January 20, 2017
+**Today's Progress:** Family Day
+
+### Day 13: January 21, 2017
+**Today's Progress:** Udemy
+
+### Day 14: January 22, 2017
+**Today's Progress:** Docker
+
+### Day 15: January 23, 2017
+**Today's Progress:** Docker
+
+### January 24, 2017
+**Today's Progress:** Family Day
+
+### January 25, 2017
+**Today's Progress:** Family Day
+
+### Day 16: January 26, 2017
+**Today's Progress:** Atom
+
+### Day 17: January 27, 2017
+**Today's Progress:** Atom
+
+### Day 18: January 28, 2017
+**Today's Progress:** Gladius

@@ -138,3 +138,43 @@ Important lesson learned. Sub module dependencies may sometimes be incompatible 
 
 **Link(s) to work:**
 1. [Gladius](https://github.com/sseltzer/gladius)
+
+### Day 19: January 29, 2017
+**Today's Progress:** Added yarn file. Set up the project to work with heroku. Abstracted more env stuff.
+
+**Thoughts:** Heroku was not intuitive. Especially the port number thing. However, after some issues, I finally got it working right.
+
+**Time:** 6hrs
+**Link(s) to work:**
+1. [Gladius Heroku](https://sseltzer-gladius.herokuapp.com/)
+
+### Day 20: January 30, 2017
+**Today's Progress:** 
+**Thoughts:** 
+**Time:** 
+**Link(s) to work:**
+
+
+### Day 21: January 31, 2017
+**Today's Progress:** 
+**Thoughts:** 
+**Time:** 
+**Link(s) to work:**
+
+### Day 22: February 01, 2017
+**Today's Progress:** 
+**Thoughts:** 
+**Time:** 
+**Link(s) to work:**
+
+### Day 2: February 0, 2017
+**Today's Progress:** 
+**Thoughts:** 
+**Time:** 
+**Link(s) to work:**
+
+### Day 2: February 0, 2017
+**Today's Progress:** 
+**Thoughts:** 
+**Time:** 
+**Link(s) to work:**

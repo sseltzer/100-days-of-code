@@ -145,25 +145,36 @@ Important lesson learned. Sub module dependencies may sometimes be incompatible 
 **Thoughts:** Heroku was not intuitive. Especially the port number thing. However, after some issues, I finally got it working right.
 
 **Time:** 6hrs
+
 **Link(s) to work:**
 1. [Gladius Heroku](https://sseltzer-gladius.herokuapp.com/)
 
 ### Day 20: January 30, 2017
+
 **Today's Progress:** Began adding eslint and customizing atom.
+
 **Time:** 1
 
 ### Day 21: January 31, 2017
+
 **Today's Progress:** Finalized lint integration. "npm run lint" will now validate the project. I've also integrated atom-beautify and a few other plugins to ensure that when a file is saved, it will auto format to conform to linting standards.
+
 **Thoughts:** Auto formatting is nice to ensure code conforms to standards with minimal effort. Auto format on save prevented me from having to fix 300+ issues by hand.
+
 **Time:** 2
 
 ### Day 22: February 01, 2017
+
 **Today's Progress:** Fixed the last of the lint issues. Everything is clean now.
+
 **Time:** 1
 
 ### Day 23: February 02, 2017
+
 **Today's Progress:** Split config file into environment specific configs. Added schema validation for configs. Added some nice error checking and graceful failure with logging when the app detects that it cannot start.
+
 **Thoughts:** Attended a JS meetup to support Jordan and learn about D3 and Node.js debugging. The event was pretty good.
+
 **Time:** 3
 
 ### February 03, 2017 - Family day

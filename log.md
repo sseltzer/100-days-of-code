@@ -179,4 +179,12 @@ Important lesson learned. Sub module dependencies may sometimes be incompatible 
 
 ### February 03, 2017 - Family day
 ### February 04, 2017 - Family day
+### February 05, 2017 - Family day
 
+### Day 24: February 06, 2017
+
+**Today's Progress:** Forked Gladius into a separate project to test some Hazelcast stuff (Spatha). The repo is private for now.
+
+**Thoughts:** Hazelcast-client wasn't the most intuitive thing to get set up with. I got hung up on a 'this' context switch that took me a bit to figure out. Once that was resolved, everything went smooth. I'll probably open this up or integrate it into Gladius later.
+
+**Time:** 3
